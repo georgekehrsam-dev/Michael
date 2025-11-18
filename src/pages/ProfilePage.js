@@ -18,12 +18,12 @@ export default function ProfilePage() {
           <Stack spacing={5}>
             <Box>
                 {/* sx is CSS styling for React components */}
-                <Typography variant='h1' sx={{/*fontSize: '50px',*/ color: 'primary.main'}}>Aspiring</Typography>
+                <Typography variant='h1' sx={{/*fontSize: '50px',*/ color: 'primary.main'}}> Aspiring Electrical Engineer</Typography>
                 <Typography variant='h1' sx={{color: 'tertiary.main'}}>--Enter position--</Typography>
             </Box>
             <Box>
                 <Typography variant='h2' sx={{fontWeight: 'bold', color: 'primary.main'}} >Education</Typography>
-                <Typography variant='h3' sx={{color: 'primary.main'}}>Virginia Tech, Class of --Enter Grad Year--</Typography>
+                <Typography variant='h3' sx={{color: 'primary.main'}}>Virginia Tech, Class of --2026--</Typography>
             </Box>
             <Box maxWidth={'83%'}>
                 <Typography variant='h2' sx={{fontWeight: 'bold', color: 'primary.main'}}>What's my story?</Typography>
